@@ -1,13 +1,15 @@
-# books
+# Books - CRUD Web application project
 
-CRUD web application project
+### Frontend
 
->Frontend
-  Semantic UI
-  ReactJs
-  Redux
-  Webpack
->Backend
-  ExpressJs
-  MySql
-  Sequelize
+  - SemanticUI
+  - ReactJs
+  - Redux
+  - Webpack
+
+
+### Backend
+
+  - ExpressJs
+  - MySql
+  - Sequelize
